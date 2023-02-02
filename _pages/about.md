@@ -33,11 +33,11 @@ I have a broad knowledge in computer science in general, my primary focus is cur
 * Jun 2015 ~ Aug 2015: System developer internship at [SevOne Inc.](https://www.sevone.com/) (Wilmington DE, USA)
 
 ### Selected Projects
-* [Approach Zero](https://approach0.xyz/docs/): A Math-aware search engine combining math expression and regular keywords search.
+* [Approach Zero](https://github.com/approach0): A Math-aware search engine combining math expression and regular keywords search.
 	* Ranked #1 by highest votes in year [2020](https://math.meta.stackexchange.com/questions/31296/community-promotion-ads-2020/31299#31299) and [2021](https://math.meta.stackexchange.com/questions/33720/community-ads-for-2021) of the Math Stack Exchange Community Promotion Ads.
 	* Obtained the best effectiveness in the [formula retrieval task](https://ceur-ws.org/Vol-2936/paper-01.pdf) of [ARQMath 2021](https://www.cs.rit.edu/~dprl/ARQMath/).
     * Obtained the state-of-the-art effectiveness in all three [CLEF-2022 ARQMath tasks](https://ceur-ws.org/Vol-3180/paper-01.pdf).
-    * I have proudly made this project demo online (using Docker swarm) and have successfully kept the site up since 2016 (served more than a million queries).
+    * I have proudly made this project demo [online](https://approach0.xyz) (using Docker swarm) and have successfully kept the site up [since 2016](https://math.meta.stackexchange.com/questions/24978) (served more than a million queries).
 * [TinyNN](https://github.com/borgwang/tinynn) and [MNN](https://github.com/w32zhong/mnn): Deep learning projects for my study purpose. I have contributed: Denoising autoencoder (DAE), Restricted Boltzmann Machine with CD-k training, and activation maximization (AM) visualization. I have also documented manual derivations for the gradients/Jacobian matrix of typical layers.
 * [FlappyBird in VHDL](https://github.com/t-k-/vhdl_flappybird): An interesting course project I made in an embedded system course using VHDL (see [Youtube video](https://www.youtube.com/watch?v=Jn5G29TR8y4))
 * [8-bit TTL‑CPU](https://github.com/w32zhong/my-ttl-cpu): Homebrew 8-bit TTL CPU, it successfully runs a *for loop* to calculate *1 + 2 + ... + 19* in Multisim software simulation.
