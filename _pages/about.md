@@ -20,7 +20,7 @@ I started my Ph.D. study at Rochester Institute of Technology in 2017 Fall, advi
 Before that, I have received my Master's degree in Electrical and Computer Engineering (advised by Prof. [Fang Hui](https://www.eecis.udel.edu/~hfang/)) at the University of Delaware and my B.S. degree from Jiliang University of China in 2015 and 2013, respectively.
 
 In my research, I have been working on creating a math-aware search engine.
-I have won two [best paper awards](/publications/) during my graduate study.
+I have won [two best paper awards](/publications/) during my graduate study.
 Currently, I am actively looking for a research internship.
 
 I have a broad knowledge in computer science in general, my primary focus is currently in information retrieval, machine learning, and WEB technologies.
