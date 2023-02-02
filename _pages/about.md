@@ -33,7 +33,7 @@ I have a broad knowledge in computer science in general, my primary focus is cur
 * Jun 2015 ~ Aug 2015: System developer internship at [SevOne Inc.](https://www.sevone.com/) (Wilmington DE, USA)
 
 ### Selected Projects
-* [Approach Zero](https://github.com/approach0): A Math-aware search engine combining math expression and regular keywords search.
+* [Approach Zero](https://github.com/approach0): A math-aware search engine combining math expression and regular keywords search.
 	* Ranked #1 by highest votes in year [2020](https://math.meta.stackexchange.com/questions/31296/community-promotion-ads-2020/31299#31299) and [2021](https://math.meta.stackexchange.com/questions/33720/community-ads-for-2021) of the Math Stack Exchange Community Promotion Ads.
 	* Obtained the best effectiveness in the [formula retrieval task](https://ceur-ws.org/Vol-2936/paper-01.pdf) of [ARQMath 2021](https://www.cs.rit.edu/~dprl/ARQMath/).
     * Obtained the state-of-the-art effectiveness in all three [CLEF-2022 ARQMath tasks](https://ceur-ws.org/Vol-3180/paper-01.pdf).
