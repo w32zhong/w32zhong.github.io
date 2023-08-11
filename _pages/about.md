@@ -34,6 +34,3 @@ I have a broad knowledge in computer science in general, my primary focus is cur
 * [TinyNN](https://github.com/borgwang/tinynn) and [MNN](https://github.com/w32zhong/mnn): Deep learning projects for my study purpose. I have contributed: Denoising autoencoder (DAE), Restricted Boltzmann Machine with CD-k training, and activation maximization (AM) visualization. I have also documented manual derivations for the gradients/Jacobian matrix of typical layers.
 * [FlappyBird in VHDL](https://github.com/t-k-/vhdl_flappybird): An interesting course project I made in an embedded system course using VHDL (see [Youtube video](https://www.youtube.com/watch?v=Jn5G29TR8y4))
 * [8-bit TTL‑CPU](https://github.com/w32zhong/my-ttl-cpu): Homebrew 8-bit TTL CPU, it successfully runs a *for loop* to calculate *1 + 2 + ... + 19* in Multisim software simulation.
-
-### More
-For more information about me, please check out my [CV/Resumé](assets/pdf/resume-en.pdf).
