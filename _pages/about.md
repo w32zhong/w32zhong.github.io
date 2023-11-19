@@ -13,7 +13,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I am currently a Ph.D. student in the David R. Cheriton School of Computer Science at the University of Waterloo, advised by Prof. [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/index.html).
+I obtained my Ph.D. degree in the David R. Cheriton School of Computer Science at the University of Waterloo, advised by Prof. [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/index.html).
 
 I started my Ph.D. study at the Rochester Institute of Technology in 2017 Fall, advised by Prof. [Richard Zanibbi](https://www.cs.rit.edu/~rlaz/), but later paused and transferred to the current program in April 2021 due to the COVID-19 global pandemic.
 
