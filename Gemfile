@@ -12,6 +12,7 @@ group :jekyll_plugins do
     gem 'jekyll-sitemap'
     gem 'jekyll-target-blank'
     gem 'jekyll-twitter-plugin'
+    gem "json"
     gem 'jemoji'
     gem 'unicode_utils'
     gem 'webrick'
